@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Health-Monitornig-System
-=======
 # Health Monitoring System
 ## G-10 Major Project
 ## Linagay's Vidyapeeth 
@@ -14,4 +11,3 @@
 1. Platform.io with Arduino framework
 
 ### To View The  Webpage open [http://healthmonitor.local](http://healthmonitor.local) in a Browser
->>>>>>> 90705d9 (added README)

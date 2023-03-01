@@ -189,6 +189,9 @@ void setup() {
   // Initialize WiFi
   initWiFi();
 
+  pinMode(2, OUTPUT);
+  digitalWrite(2, HIGH);
+
   if (!MDNS.begin(deviceName)) {
     Serial.print("Error starting mDNS");
   }
